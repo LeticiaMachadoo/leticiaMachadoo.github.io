@@ -1,0 +1,164 @@
+Privacy Policy
+Introduction
+We respect your privacy, and we are committed to protecting your personal data. This privacy policy (“Privacy Policy”) governs the processing of personal data we collected. The definition of personal data may vary from country to country. We define it as any information that may, directly or indirectly, identify you.
+
+Playhill Limited (with registered office at Pyketree Business Centre, Suite 2, Office 4, Santa Venera, CBD 5030, Malta, VAT number MT28384806) (“we”, “us”, or “our”) is the controller of your personal data under this Privacy Policy with which you had, have, or will have a relationship.
+
+Data subject types
+We divided this Privacy Policy into sections based on how you may interact with us. References to sections are to sections of this Privacy Policy. Please determine what data subject type you are. For each data subject type, we explain what information we collect and why, how we share such information, and your rights.
+
+Visitors of Our Websites and Apps
+You are considered a “Visitor of Our Websites and Apps” when you visit one of our websites and/or apps.
+
+What information do we collect and why
+We collect information from Visitors of Our Websites and Apps to:
+
+understand what services in our websites and apps you are interested in;
+improve your experience when using our websites and apps;
+provide you with the most relevant ads based on your interests.
+On our websites and apps, we may collect the following information from you:
+
+account log-in information (e.g., e-mail, username and profile picture).
+What cookies and similar technologies do we use
+We currently do not use cookies or similar technologies on our websites and apps. However, the marketing materials displayed on our apps may install advertisers’ tracking cookies. We recommend that you carefully read the advertisers’ privacy and cookies policies.
+
+Legal basis
+Our legal basis for processing personal data of a Visitor of Our Websites and Apps varies according to the circumstances and may be: (1) Consent; (2) Contract; (3) Legal Obligations; or (4) Legitimate Interests (as defined in Section 6 (“Legal basis for the processing”)).
+
+We rely on the legitimate interests when we process your personal data for the purposes of (1) analysing the performance of our websites and apps and understanding how you and other users use them to improve the performance of the websites and apps; (2) keeping you informed about any amendments to our terms and conditions, privacy and cookie policies or any other matter that may be relevant to you; and (3) preventing fraud.
+
+How we may share information
+We share the information we collected with our cloud computing provider (i.e., Amazon Web Services EMEA SARL, with address at 38 Avenue John F. Kennedy, 1855, Luxembourg). The servers used are located within the EEA.
+
+For further information, please see Section 8 (“How we share your personal data”).
+
+Your rights
+Please see Section 10 (“What data subject rights do you have”).
+
+Sensitive Personal Data
+We may collect sensitive personal data (if you share your profile picture). The definition of “sensitive personal data” varies from country to country. We consider sensitive personal data to be any information about you that reveals your racial or ethnic origin, political opinions, religious or philosophical beliefs, and trade union membership, as well as genetic and biometric information and data concerning your health and sex life or sexual orientation.
+
+Playhill Limited (with registered office at Pyketree Business Centre, Suite 2, Office 4, Santa Venera, CBD 5030, Malta, VAT number MT 28384806) (“we”, “us”, or “our”) is the controller of your personal data under this Privacy Policy with which you had, have, or will have a relationship.
+
+Minors’ Personal Data
+We do not knowingly collect personal data from minors. Please note that the definition of “minors” is subject to national laws and may vary accordingly.
+
+How we process your personal data
+We process your personal data at all times in accordance with the applicable data protection and privacy laws.
+
+When processing your personal data, we observe the following principles:
+
+Lawfulness
+We solely process personal data if we have a legal basis. When processing your personal data, we ensure that such processing is carried out in accordance with the applicable data protection and privacy laws. Please see Section 6 (“Legal basis for the processing”).
+
+Transparency
+Before collecting your personal data, we endeavour efforts to provide you with as much information as possible concerning the processing of your personal data.
+
+Purpose Limitation
+Your personal data is collected for specified, explicit, and legitimate purposes, and we do not process personal data in a manner incompatible with the purpose(s) for which it was collected.
+
+Data Minimisation
+We solely process personal data which is strictly necessary for the purposes for which it is collected (e.g., provision of services).
+
+Accuracy
+We endeavour efforts to keep your personal data as accurate and up to date as possible, and you may rectify such data at any time.
+
+Storage Limitation
+We do not retain your personal data for a more extended period than necessary for the purposes it was collected. Please see Section 7 (“How long we retain your personal data”).
+
+Integrity and Confidentiality
+We implemented appropriate technical or organisational measures to protect your personal data, including against unauthorised or unlawful processing and accidental loss, destruction, or damage.
+
+Legal basis for the processing
+Our legal basis for processing your personal data varies according to the circumstances of each use of your personal data. We do not process your personal data without a legal basis. The processing of your personal data may be based on the following legal basis:
+
+Consent
+We process personal data based on your consent when this is explicitly mentioned before the collection. You can withdraw your consent at any time.
+
+Contract
+In certain instances, the processing of your personal data will be necessary for the performance of our obligations under an agreement we have with you or to execute such agreement.
+
+Legal Obligations
+The processing of your personal data may be necessary for us to comply with legal obligations, as well as to exercise or defend ourselves from legal claims.
+
+Legitimate Interests
+We rely on Legitimate Interests when we have a legitimate interest in the processing of your personal data (such as analysing the performance of our websites and apps, technically delivering the advertising materials, or preventing fraud).
+
+How long we retain your personal data
+We will not retain your personal data for longer than reasonably necessary for the purpose or purposes it was collected or to comply with legal obligations to which we are subject.
+
+When your personal data is no longer required (i.e., when your account is deleted), we will either anonymise or securely delete it.
+
+How we share your personal data
+In addition to the description of how we may share your personal data for each data subject type (please see the “How we may share information” section for your data subject type), we may share your personal data as follows:
+
+with our subcontractors;
+within our group companies, as well as with their subcontractors;
+if we go through a business transition, such as acquisition by another company, a merger, or the sale of all or any of our assets, your personal data will likely be among the assets transferred;
+when we are legally required to do so.
+Personal Data transfers to outside the European Economic Area (“EEA”)
+If your personal data is collected within the EEA and transferred to countries outside the EEA, we will provide for at least one of the following safeguards:
+
+we will transfer your personal data to countries for which the European Commission has decided they ensure an adequate level of protection for personal data;
+we will ensure appropriate safeguards (e.g., standard data protection clauses adopted or approved by the European Commission) are in place.
+with our subcontractors;
+within our group companies, as well as with their subcontractors;
+if we go through a business transition, such as acquisition by another company, a merger, or the sale of all or any of our assets, your personal data will likely be among the assets transferred;
+when we are legally required to do so.
+What data subject rights do you have
+You have the following data subject rights:
+
+Right of Access
+You have the right to obtain from us confirmation as to whether we are processing your personal data. Should that be the case, you have the right of access to your personal data and to obtain further information concerning the processing of your personal data.
+
+Right to Rectification
+You have the right to have your personal data rectified if it is inaccurate and, in certain instances, completed if it is incomplete.
+
+Right to Erasure (“Right to be Forgotten”)
+Under certain circumstances, you have the right to obtain the erasure of your personal data.
+
+Right to Restrict Processing
+Under certain instances, you have the right to restrict the processing of your personal data.
+
+Right to Data Portability
+You have the right to receive your personal data in a structured, commonly used, and machine-readable format and to have your personal data transferred to another controller, where technically feasible, and the processing is based on your consent or an agreement between us and is carried out by automated means.
+
+Right to Object
+Under certain instances, you have the right to object to the processing of your personal data.
+
+Right not to be subject to a Decision Based Solely on Automated Processing
+You have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning you or significantly affects you. We do not carry automated decision-making, including profiling.
+
+Right to Complain to a Data Protection
+If you consider that the processing of your personal data infringes any applicable data protection and privacy law, you have the right to complain to a competent Data Protection Authority, without prejudice to any other administrative or judicial resource.
+
+Right to Withdraw Consent
+You have the right to withdraw your consent to the processing of personal data based on your consent at any time We may request your information to confirm your identity. We reserve the right not to respond to your request if we cannot identify you.
+
+Security of your personal data
+We have implemented appropriate technical and organisational measures to ensure a level of security appropriate to the risk involved in order to protect your personal data against a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, your personal data transmitted, stored, or otherwise processed.
+
+Our employees and contractors are bound by confidentiality obligations regarding the personal data they process.
+
+Non-Discrimination
+We will not discriminate against you for exercising any of your rights.
+
+“Do Not Track” disclosure
+Certain browsers transmit “Do Not Track” (“DNT”) signals to websites. At this moment, we do not respond to DNT signals or other mechanisms from these browsers.
+
+How this Privacy Policy may be amended
+We reserve the right to amend this Privacy Policy at any time.
+
+If we amend this Privacy Policy, we will publish a new version of this Privacy Policy on this website and provide a notice visible on this website.
+
+You should check this page regularly to confirm if the Privacy Policy has been amended. We will display the date of the latest amendment of this Privacy Policy at the top of this page, so you can see when it was last amended.
+
+All amendments to this Privacy Policy shall come into force:
+
+on the day after its publication, if required by any applicable data protection and privacy law;
+within seven (7) calendar days after its publication, if any other case.
+Language
+This Privacy Policy is written in English. In the event this Privacy Policy is translated into another language and there is a discrepancy between the English version and the translation, the English version shall prevail.
+
+How to contact us 
+Should you have any questions regarding the processing of your personal data, or should you intend to exercise your rights under any data protection and privacy law and/or this Privacy Policy, please send a request to privacy@playhill.com.
