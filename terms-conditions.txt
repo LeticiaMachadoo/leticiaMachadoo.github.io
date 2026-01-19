@@ -1,0 +1,129 @@
+Sportiz â€“ Terms of Service
+Effective on 15/05/2025
+
+These Terms of Use (the “Terms”) govern your access to the Sportiz mobile application (the “App”) and any related services provided by Playhill Limited, a company organised and existing under Maltese law, registration number C 99597, with registered office at Pyketree Business Centre, Suite 2, Office 4, Santa Venera, CBD 5030, Malta, VAT number MT28384806 (“we”, “us”, or “our”), as amended from time to time.
+
+By accessing or using the App, you confirm that you have read, understood, and agree to be bound by these Terms and our Privacy Policy. If you do not accept these Terms, please do not use the App.
+
+Definitions
+The capitalised terms below shall have the following meaning:
+
+“Coins” – has the meaning ascribed in clause 9.
+
+“Intellectual Property Rights” – copyrights, neighbouring rights, sui generis rights, trademarks, service marks, logos, business names, goodwill, rights to sue for passing off, domains, designs, trade secrets, know-how, and all other intellectual property rights, in each case, whether registered or not and including all applications and rights to apply for, rights of priority, and extensions;
+
+“Marketing Materials” – any promotional content displayed in the App, including banners, landing pages, photos, and texts, which contain a Tracker;
+
+“User”, “you”, or “your” – any individual who registers for or accesses the App.
+
+About the App
+The App provides Users with access to a range of quizzes and time-limited challenges. Users may participate in quizzes, earn points, earn Coins, appear on leaderboards, and – where applicable – receive prizes for their performance.
+
+The App is intended solely for entertainment purposes.
+
+We reserve the right to modify or discontinue any features or functionalities of the App at our sole discretion.
+
+Eligibility
+Use of the App is restricted to individuals who are at least 18 years of age. By using the App, you represent and warrant that you are legally permitted to use the App in your jurisdiction, you are not under the age of 18, and you will comply with all applicable laws and these Terms
+
+Account Registration
+To participate in challenges and access certain features, Users must create an account. You agree to provide accurate, current, and complete information, maintain the security of your login credentials, use only one account, and update your details when necessary.
+
+We reserve the right to suspend or terminate accounts that violate these Terms.
+
+Challenges and Participation
+General structure
+By participating in any quiz or challenge offered through the App, you agree to be bound by these Terms and any specific conditions applicable a challenge, including, without limitation, start and end dates, prize descriptions, and prize claim procedures. Such conditions will be made available through our App, website, or social media channels, and form an integral part of these Terms.
+
+Participation
+Users may play available quizzes during the challenge period as defined in the applicable challenge conditions. Unless otherwise stated, Users may play as many times as desired to improve their scores.
+
+Users must use only one account to participate in challenges.
+
+Multiplayer games do not contribute to leaderboard rankings.
+
+Scoring (Single player)
+In single-player mode, Users earn point based on the accuracy and speed of their answers:
+
+A correct answer awards 10 base points, plus a timer bonus based on how quickly the question is answered:
+
+0.01 to 0.99 seconds: +1 point
+1.00 to 1.99 seconds: +2 points
+2.00 to 2.99 seconds: +3 points
+3.00 to 3.99 seconds: +4 points
+4.00 to 4.99 seconds: +5 points
+5.00 to 5.99 seconds: +6 points
+6.00 to 6.99 seconds: +7 points
+7.00 to 7.99 seconds: +8 points
+8.00 to 8.99 seconds: +9 points
+9.00 to 9.99 seconds: +10 points
+Incorrect answers receive 0 points.
+The total score for each quiz reflects the sum of base points and timer bonuses across all questions.
+
+A question already answered correctly will not reappear. The progress bar reflects quiz completion.
+
+Leaderboard and Ties
+Leaderboard rankings are based on total score. In the event of a tie, the User who first achieved the tied score will be ranked higher.
+
+Prizes
+Prizes, when offered, will be awarded based on performance in the relevant challenge, as described in the applicable challenge conditions. Prizes may vary by challenge and may include digital rewards, gift items, or third-party vouchers, but shall not include cash or real money equivalents.
+
+Winners must ensure that their “Account Details” are complete and accurate. They are solely responsible for any tax obligations. Notifications may be made via email, the App, the website, or social media channels.
+
+We reserve the right to substitute any prize with one of equal or greater value.
+
+Conduct and Fair play
+The App promotes fair play. Users must not use bots, scripts, automation tools, or any other methods to manipulate results or abuse bugs or exploits. Account sharing and fraudulent submissions are also prohibited
+
+We reserve the right to disqualify Users or suspend accounts for suspected misconduct. Suspicious behaviour (including abnormal play patterns or excessive speed) may be flagged and investigated.
+
+To report misconduct or bugs, use the in-app support chat or contact support@sportiz.app.
+
+Privacy and Data usage
+Your use of the App is subject to our Privacy Policy. By using the App, you consent to the processing of your personal information for purposes such as managing challenges, awarding prizes, understanding what services on our websites and apps you are interested in, improving your experience when using our websites and apps, and providing you with the most relevant ads based on your interests.
+
+Coins and In-App purchases
+The App allows Users to acquire and use virtual currency (the “Coins”) to unlock additional quizzes or features. Coins have no real-world monetary value, are non-transferable, and may not be redeemed for cash.
+
+Users can acquire Coins by purchasing Coin packages with real money through the App, watching video ads offered within the App, and/or clicking on Marketing Materials displayed in the App. Some Marketing Materials may relate to online gambling and sports betting. We are not an online gambling or sports betting operator and do not provide any such services.
+
+We are not responsible for the availability, content, or practices of third-party websites. Your interaction with them is at your own discretion and subject to their terms and applicable laws.
+
+We reserve the right to change the methods of acquiring Coins, the number of Coins awarded, or the pricing for features at any time without prior notice. All purchases are processed via the Apple App Store or Google Play Store and are subject to their respective terms and conditions.
+
+Intellectual Property
+All Intellectual Property Rights in the App belong to us or our licensors. You may not reproduce, distribute, display, reverse engineer, or otherwise use any part of the App without prior written consent. Use of the App grants no ownership over any Intellectual Property Rights.
+
+Technical issues and Force Majeure
+We are not responsible for technical failures, outages, or App malfunctions, delays or errors in prize delivery caused by incorrect user information and for failing to perform our obligations due to an act of God or other circumstances beyond its reasonable control, including, but not limited to, acts of fire, flood and violence, epidemic or pandemic, internet unavailability, and similar force majeure events.
+
+Modifications
+We may modify, suspend, or cancel any challenge, feature, or functionality at our discretion, with or without prior notice.
+
+Significant changes may be communicated through the App, website, or social media channels.
+
+Termination
+We reserve the right to terminate or suspend access to the App or any account at our discretion and without liability, particularly in cases of breach of these Terms, fraud, cheating, misconduct, or inactivity.
+
+Users may delete their accounts at any time through the App.
+
+Limitation of liability
+To the extent permitted by law, we disclaim all liability for indirect, incidental, consequential, special, or punitive damages, including without limitation loss of data, income, profits, business, or goodwill, even if we have been advised of the possibility of such losses.
+
+We are not responsible for the inability to access the App or participate in challenges, nor for any loss resulting from technical failures, third-party services, or tracking technologies.
+
+We are not responsible for the performance or availability of third-party advertising networks or tracking technologies. You interact with such systems at your own risk.
+
+Miscellaneous
+If any provision of these Terms is held invalid or unenforceable, the remaining provisions shall remain in full force. Our failure to enforce any part of these Terms is not a waiver of that right. These Terms take precedence over any conflicting content within the App. Our rights survive the termination of these Terms.
+
+Amendments
+We may update these Terms at any time. Changes are effective upon publication in the App or on our website. Continued use after changes signifies acceptance.
+
+You are advised to review the Terms regularly.
+
+Governing law and Jurisdiction
+These Terms and all matters relating to it shall be governed by Maltese law, excluding international private law. Any dispute arising out of or relating to these Terms shall be resolved exclusively by the courts of Malta.
+
+Contact and Support
+All communications with Users shall be in English. For any inquiries or support requests, contact us at: support@sportiz.app.
